@@ -56,9 +56,9 @@ function determineWinner (userChoice, computerChoice){
 
                 if (computerChoice === 'rock') {
 
-                console.log('Rock smashes scissors! Computer winn!');
+                console.log('Rock smashes scissors! Computer win!');
             
-                } else {console.log('Scissors cuts paper! You win!}');}
+                } else {console.log('Scissors cuts paper! You win!');}
             } 
             }
  }
